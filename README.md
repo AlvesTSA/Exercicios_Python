@@ -1,4 +1,8 @@
 # Exercicios_Python
+<div align="center">
+<img src="https://user-images.githubusercontent.com/116441568/233228312-1fbe95e4-2d6b-4780-a1c7-50adbed4e393.jpg" width="100px" />
+</div>
+
 ## Conhecendo e treinando Python
 
 ### Estrutura sequencial
