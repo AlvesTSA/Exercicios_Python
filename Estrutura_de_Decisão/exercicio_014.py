@@ -24,23 +24,23 @@ media = (nota1 + nota2)/2
 
 if (media >= 9 and media <= 10):
 
-    print("Nota 1: {}\nNota 2: {}\nMédia:  {}\nConceito: A\nSituação: APROVADO".format(nota1, nota2, media))
+    print("Nota 1:{}\nNota 2:{}\nMédia:{}\nConceito: A\nSituação: APROVADO".format(nota1, nota2, media))
     
 elif (media >= 7.5 and media < 9):
 
-    print("Nota 1: {}\nNota 2: {}\nMédia:  {}\nConceito: B\nSituação: APROVADO".format(nota1, nota2, media))
+    print("Nota 1:{}\nNota 2:{}\nMédia:{}\nConceito: B\nSituação: APROVADO".format(nota1, nota2, media))
     
 elif (media >= 6 and media < 7.5):
 
-    print("Nota 1: {}\nNota 2: {}\nMédia:  {}\nConceito: C\nSituação: APROVADO".format(nota1, nota2, media))
+    print("Nota 1:{}\nNota 2:{}\nMédia:{}\nConceito: C\nSituação: APROVADO".format(nota1, nota2, media))
     
 elif (media >= 4 and media < 6):
 
-   print("Nota 1: {}\nNota 2: {}\nMédia:  {}\nConceito: D\nSituação: REPROVADO".format(nota1, nota2, media))
+   print("Nota 1:{}\nNota 2:{}\nMédia:{}\nConceito: D\nSituação: REPROVADO".format(nota1, nota2, media))
     
 elif (media >= 0 and media < 4):
     
-    print("Nota 1: {}\nNota 2: {}\nMédia:  {}\nConceito: E\nSituação: REPROVADO".format(nota1, nota2, media))
+    print("Nota 1:{}\nNota 2:{}\nMédia:{}\nConceito: E\nSituação: REPROVADO".format(nota1, nota2, media))
 
 else:
 
