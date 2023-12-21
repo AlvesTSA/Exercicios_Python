@@ -7,10 +7,9 @@ i = 0
 
 print("Informe 5 números:")
 
-for num in range(1, 6):
+for i in range(1, 6):
 
     num = float(input())
-    i += 1
     soma += num
 
 media = soma/i
